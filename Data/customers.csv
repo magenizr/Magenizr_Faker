@@ -1,0 +1,117 @@
+"first_name","last_name","address>street","address>country_id","address>city","address>region","address>region_id","address>postcode","address>telephone","email","optional>password","website_id","group_id","store_id","address>is_default_billing","address>is_default_shipping"
+"Rebbecca","Didio","171 E 24th St","AU","Leith",,"TAS",7315,"0458-665-290","rebbecca.didio@didio.com.au",,1,1,1,1,1
+"Stevie","Hallo","22222 Acoma St","AU","Proston",,"QLD",4613,"0497-622-620","stevie.hallo@hotmail.com",,1,1,1,1,1
+"Mariko","Stayer","534 Schoenborn St #51","AU","Hamel",,"WA",6215,"0427-885-282","mariko_stayer@hotmail.com",,1,1,1,1,1
+"Gerardo","Woodka","69206 Jackson Ave","AU","Talmalmo",,"NSW",2640,"0443-795-912","gerardo_woodka@hotmail.com",,1,1,1,1,1
+"Mayra","Bena","808 Glen Cove Ave","AU","Lane Cove",,"NSW",1595,"0453-666-885","mayra.bena@gmail.com",,1,1,1,1,1
+"Idella","Scotland","373 Lafayette St","AU","Cartmeticup",,"WA",6316,"0451-966-921","idella@hotmail.com",,1,1,1,1,1
+"Sherill","Klar","87 Sylvan Ave","AU","Nyamup",,"WA",6258,"0427-991-688","sklar@hotmail.com",,1,1,1,1,1
+"Ena","Desjardiws","60562 Ky Rt 321","AU","Bendick Murrell",,"NSW",2803,"0415-961-606","ena_desjardiws@desjardiws.com.au",,1,1,1,1,1
+"Vince","Siena","70 S 18th Pl","AU","Purrawunda",,"QLD",4356,"0411-732-965","vince_siena@yahoo.com",,1,1,1,1,1
+"Theron","Jarding","8839 Ventura Blvd","AU","Blanchetown",,"SA",5357,"0461-862-457","tjarding@hotmail.com",,1,1,1,1,1
+"Amira","Chudej","3684 N Wacker Dr","AU","Rockside",,"QLD",4343,"0478-867-289","amira.chudej@chudej.net.au",,1,1,1,1,1
+"Marica","Tarbor","68828 S 32nd St #6","AU","Rosegarland",,"TAS",7140,"0494-982-617","marica.tarbor@hotmail.com",,1,1,1,1,1
+"Shawna","Albrough","43157 Cypress St","AU","Ringwood",,"QLD",4343,"0441-255-802","shawna.albrough@albrough.com.au",,1,1,1,1,1
+"Paulina","Maker","6 S Hanover Ave","AU","Maylands",,"WA",6931,"0420-123-282","paulina_maker@maker.net.au",,1,1,1,1,1
+"Rose","Jebb","27916 Tarrytown Rd","AU","Wooloowin",,"QLD",4030,"0496-441-929","rose@jebb.net.au",,1,1,1,1,1
+"Reita","Tabar","79620 Timber Dr","AU","Arthurville",,"NSW",2820,"0431-669-863","rtabar@hotmail.com",,1,1,1,1,1
+"Maybelle","Bewley","387 Airway Cir #62","AU","Mapleton",,"QLD",4560,"0448-221-640","mbewley@yahoo.com",,1,1,1,1,1
+"Camellia","Pylant","570 W Pine St","AU","Tuggerawong",,"NSW",2259,"0423-446-913","camellia_pylant@gmail.com",,1,1,1,1,1
+"Roy","Nybo","823 Fishers Ln","AU","Red Hill",,"ACT",2603,"0416-394-795","rnybo@nybo.net.au",,1,1,1,1,1
+"Albert","Sonier","4 Brookcrest Dr #7786","AU","Inverlaw",,"QLD",4610,"0420-575-355","albert.sonier@gmail.com",,1,1,1,1,1
+"Hayley","Taghon","72 Wyoming Ave","AU","Eugowra",,"NSW",2806,"0491-976-291","htaghon@taghon.net.au",,1,1,1,1,1
+"Norah","Daleo","754 Sammis Ave","AU","Kotara Fair",,"NSW",2289,"0462-327-613","ndaleo@daleo.net.au",,1,1,1,1,1
+"Rosina","Sidhu","660 N Green St","AU","Burpengary",,"QLD",4505,"0458-753-924","rosina_sidhu@gmail.com",,1,1,1,1,1
+"Royal","Costeira","970 Waterloo Rd","AU","Ellis Beach",,"QLD",4879,"0480-443-612","royal_costeira@costeira.com.au",,1,1,1,1,1
+"Barrie","Nicley","4129 Abbott Dr","AU","Fish Creek",,"VIC",3959,"0455-270-505","bnicley@nicley.com.au",,1,1,1,1,1
+"Linsey","Gedman","1529 Prince Rodgers Ave","AU","Kennedy",,"QLD",4816,"0433-965-131","lgedman@gedman.net.au",,1,1,1,1,1
+"Laura","Bourbonnais","2 N Valley Mills Dr","AU","Cape Portland",,"TAS",7264,"0491-455-112","laura.bourbonnais@yahoo.com",,1,1,1,1,1
+"Fanny","Stoneking","50968 Kurtz St #45","AU","Warra",,"QLD",4411,"0465-778-983","fstoneking@hotmail.com",,1,1,1,1,1
+"Kristian","Ellerbusch","71585 S Ayon Ave #9","AU","Wanguri",,"NT","0810","0442-982-316","kristian@yahoo.com",,1,1,1,1,1
+"James","Butt","6649 N Blue Gum St","US","New Orleans","Orleans","LA",70116,"504-621-8927","jbutt@gmail.com",,1,1,1,1,1
+"Josephine","Darakjy","4 B Blue Ridge Blvd","US","Brighton","Livingston","MI",48116,"810-292-9388","josephine_darakjy@darakjy.org",,1,1,1,1,1
+"Art","Venere","8 W Cerritos Ave #54","US","Bridgeport","Gloucester","NJ","08014","856-636-8749","art@venere.org",,1,1,1,1,1
+"Lenna","Paprocki","639 Main St","US","Anchorage","Anchorage","AK",99501,"907-385-4412","lpaprocki@hotmail.com",,1,1,1,1,1
+"Donette","Foller","34 Center St","US","Hamilton","Butler","OH",45011,"513-570-1893","donette.foller@cox.net",,1,1,1,1,1
+"Simona","Morasca","3 Mcauley Dr","US","Ashland","Ashland","OH",44805,"419-503-2484","simona@morasca.com",,1,1,1,1,1
+"Mitsue","Tollner","7 Eads St","US","Chicago","Cook","IL",60632,"773-573-6914","mitsue_tollner@yahoo.com",,1,1,1,1,1
+"Leota","Dilliard","7 W Jackson Blvd","US","San Jose","Santa Clara","CA",95111,"408-752-3500","leota@hotmail.com",,1,1,1,1,1
+"Sage","Wieser","5 Boston Ave #88","US","Sioux Falls","Minnehaha","SD",57105,"605-414-2147","sage_wieser@cox.net",,1,1,1,1,1
+"Kris","Marrier","228 Runamuck Pl #2808","US","Baltimore","Baltimore City","MD",21224,"410-655-8723","kris@gmail.com",,1,1,1,1,1
+"Minna","Amigon","2371 Jerrold Ave","US","Kulpsville","Montgomery","PA",19443,"215-874-1229","minna_amigon@yahoo.com",,1,1,1,1,1
+"Abel","Maclead","37275 St  Rt 17m M","US","Middle Island","Suffolk","NY",11953,"631-335-3414","amaclead@gmail.com",,1,1,1,1,1
+"Kiley","Caldarera","25 E 75th St #69","US","Los Angeles","Los Angeles","CA",90034,"310-498-5651","kiley.caldarera@aol.com",,1,1,1,1,1
+"Graciela","Ruta","98 Connecticut Ave Nw","US","Chagrin Falls","Geauga","OH",44023,"440-780-8425","gruta@cox.net",,1,1,1,1,1
+"Cammy","Albares","56 E Morehead St","US","Laredo","Webb","TX",78045,"956-537-6195","calbares@gmail.com",,1,1,1,1,1
+"Mattie","Poquette","73 State Road 434 E","US","Phoenix","Maricopa","AZ",85013,"602-277-4385","mattie@aol.com",,1,1,1,1,1
+"Meaghan","Garufi","69734 E Carrillo St","US","Mc Minnville","Warren","TN",37110,"931-313-9635","meaghan@hotmail.com",,1,1,1,1,1
+"Gladys","Rim","322 New Horizon Blvd","US","Milwaukee","Milwaukee","WI",53207,"414-661-9598","gladys.rim@rim.org",,1,1,1,1,1
+"Yuki","Whobrey","1 State Route 27","US","Taylor","Wayne","MI",48180,"313-288-7937","yuki_whobrey@aol.com",,1,1,1,1,1
+"Fletcher","Flosi","394 Manchester Blvd","US","Rockford","Winnebago","IL",61109,"815-828-2147","fletcher.flosi@yahoo.com",,1,1,1,1,1
+"Bette","Nicka","6 S 33rd St","US","Aston","Delaware","PA",19014,"610-545-3615","bette_nicka@cox.net",,1,1,1,1,1
+"Veronika","Inouye","6 Greenleaf Ave","US","San Jose","Santa Clara","CA",95111,"408-540-1785","vinouye@aol.com",,1,1,1,1,1
+"Willard","Kolmetz","618 W Yakima Ave","US","Irving","Dallas","TX",75062,"972-303-9197","willard@hotmail.com",,1,1,1,1,1
+"Maryann","Royster","74 S Westgate St","US","Albany","Albany","NY",12204,"518-966-7987","mroyster@royster.com",,1,1,1,1,1
+"Alisha","Slusarski","3273 State St","US","Middlesex","Middlesex","NJ","08846","732-658-3154","alisha@slusarski.com",,1,1,1,1,1
+"Allene","Iturbide","1 Central Ave","US","Stevens Point","Portage","WI",54481,"715-662-6764","allene_iturbide@cox.net",,1,1,1,1,1
+"Chanel","Caudy","86 Nw 66th St #8673","US","Shawnee","Johnson","KS",66218,"913-388-2079","chanel.caudy@caudy.org",,1,1,1,1,1
+"Ezekiel","Chui","2 Cedar Ave #84","US","Easton","Talbot","MD",21601,"410-669-1642","ezekiel@chui.com",,1,1,1,1,1
+"Willow","Kusko","90991 Thorburn Ave","US","New York","New York","NY",10011,"212-582-4976","wkusko@yahoo.com",,1,1,1,1,1
+"Francoise","Rautenstrauch","2335 Canton Hwy #6","CA","Windsor",,"ON","N8N 3N2","519-569-8399","francoise.rautenstrauch@rautenstrauch.com",,1,1,1,1,1
+"Kendra","Loud","6 Arch St #9757","CA","Alcida",,"NB","E8J 2C4","506-363-1526","kloud@gmail.com",,1,1,1,1,1
+"Lourdes","Bauswell","9547 Belmont Rd #21","CA","Belleville",,"ON","K8P 1B3","613-903-7043","lourdes_bauswell@aol.com",,1,1,1,1,1
+"Hannah","Edmison","73 Pittsford Victor Rd","CA","Vancouver",,"BC","V5Z 3K2","604-334-3686","hannah@yahoo.com",,1,1,1,1,1
+"Tom","Loeza","447 Commercial St Se","CA","LIle-Perrot",,"QC","J7V 4T4","514-487-6096","tom.loeza@gmail.com",,1,1,1,1,1
+"Queenie","Kramarczyk","47 Garfield Ave","CA","Swift Current",,"SK","S9H 4V2","306-421-5793","queenie.kramarczyk@kramarczyk.org",,1,1,1,1,1
+"Hui","Portaro","3 Mill Rd","CA","Baker Brook",,"NB","E7A 1T3","506-827-7755","hui_portaro@cox.net",,1,1,1,1,1
+"Josefa","Opitz","136 W Grand Ave #3","CA","Delhi",,"ON","N4B 1C4","519-788-7645","josefa.opitz@opitz.org",,1,1,1,1,1
+"Lea","Steinhaus","80 Maplewood Dr #34","CA","Bradford",,"ON","L3Z 2S4","905-618-8258","lsteinhaus@cox.net",,1,1,1,1,1
+"Paola","Vielma","58 Hancock St","CA","Aurora",,"ON","L4G 2J7","905-456-1117","paola_vielma@aol.com",,1,1,1,1,1
+"Hortencia","Bresser","808 Calle De Industrias","CA","New Waterford",,"NS","B1H 1Z4","902-256-6791","hbresser@aol.com",,1,1,1,1,1
+"Leanna","Tijerina","2859 Dorsett Rd","CA","North York",,"ON","M9L 2T9","416-719-2114","leanna@cox.net",,1,1,1,1,1
+"Danilo","Pride","6857 Wall St","CA","Red Deer",,"AB","T4R 2H5","403-212-4945","danilo_pride@hotmail.com",,1,1,1,1,1
+"Huey","Marcille","169 Journal Sq","CA","Edmonton",,"AB","T5P 1G9","780-639-3619","huey.marcille@gmail.com",,1,1,1,1,1
+"Apolonia","Warne","3 E 31st St #77","CA","Fredericton",,"NB","E3G 0A3","506-978-1488","apolonia@gmail.com",,1,1,1,1,1
+"Chandra","Lagos","7 N Dean St","CA","Etobicoke",,"ON","M8Z 3P6","416-716-6446","chandra.lagos@lagos.org",,1,1,1,1,1
+"Crissy","Pacholec","85 S State St","CA","Barrie",,"ON","L4N 6T7","705-477-2307","crissy@aol.com",,1,1,1,1,1
+"Gianna","Branin","100 Main St","CA","Calgary",,"AB","T2K 4X5","403-337-7162","gianna@aol.com",,1,1,1,1,1
+"Valentin","Billa","6185 Bohn St #72","CA","Pangman",,"SK","S0C 2C0","306-291-5073","vbilla@yahoo.com",,1,1,1,1,1
+"Ilona","Dudash","2 Sutton Pl S #5727","CA","Rouyn-Noranda",,"QC","J9X 3V4","819-536-7034","idudash@dudash.com",,1,1,1,1,1
+"Willard","Lablanc","1534 Sidco Dr","CA","Leduc",,"AB","T9E 5A6","780-384-5410","wlablanc@yahoo.com",,1,1,1,1,1
+"Lauryn","Randol","4207 Leon Rd","CA","North Vancouver",,"BC","V7L 3X6","604-236-4625","lauryn@yahoo.com",,1,1,1,1,1
+"Laurena","Begin","7564 N Academy Ave","CA","London",,"ON","N6A 1S5","519-790-8660","laurena.begin@begin.com",,1,1,1,1,1
+"Elise","Michelle","88 E Saint Elmo Rd","CA","Hamilton",,"ON","L8R 3J3","905-652-4509","elise@gmail.com",,1,1,1,1,1
+"Corrie","Kardell","75 Westchester Ave","CA","Pierrefonds",,"QC","H9J 1W6","514-203-7817","corrie_kardell@aol.com",,1,1,1,1,1
+"Kimberely","Rabuse","89 W 35th St #1","CA","Windsor",,"ON","N8S 3R1","519-912-5533","kimberely.rabuse@cox.net",,1,1,1,1,1
+"Tish","Violett","1 Norris Ave #4095","CA","Laval",,"QC","H7W 5K7","450-840-7605","tish.violett@violett.com",,1,1,1,1,1
+"Hollis","Stanfield","5174 Interstate 45 N","CA","Yellowhead County",,"AB","T7E 3A7","780-574-5620","hollis.stanfield@aol.com",,1,1,1,1,1
+"Andree","Christmann","765 Rock Island Rd","CA","Strathroy",,"ON","N7G 3K6","519-872-6826","andree.christmann@cox.net",,1,1,1,1,1
+"Aleshia","Tomkiewicz","14 Taylor St","GB","St. Stephens Ward","Kent",,"CT2 7PP","01835-703597","atomkiewicz@hotmail.com",,1,1,1,1,1
+"Evan","Zigomalas","5 Binney St","GB","Abbey Ward","Buckinghamshire",,"HP11 2AX","01937-864715","evan.zigomalas@gmail.com",,1,1,1,1,1
+"France","Andrade","8 Moor Place","GB","East Southbourne and Tuckton W","Bournemouth",,"BH6 3BE","01347-368222","france.andrade@hotmail.com",,1,1,1,1,1
+"Ulysses","Mcwalters","505 Exeter Rd","GB","Hawerby cum Beesby","Lincolnshire",,"DN36 5RP","01912-771311","ulysses@hotmail.com",,1,1,1,1,1
+"Tyisha","Veness","5396 Forth Street","GB","Greets Green and Lyng Ward","West Midlands",,"B70 9DT","01547-429341","tyisha.veness@hotmail.com",,1,1,1,1,1
+"Eric","Rampy","9472 Lind St","GB","Desborough","Northamptonshire",,"NN14 2GH","01969-886290","erampy@rampy.co.uk",,1,1,1,1,1
+"Marg","Grasmick","7457 Cowl St #70","GB","Bargate Ward","Southampton",,"SO14 3TY","01865-582516","marg@hotmail.com",,1,1,1,1,1
+"Laquita","Hisaw","20 Gloucester Pl #96","GB","Chirton Ward","Tyne & Wear",,"NE29 7AD","01746-394243","laquita@yahoo.com",,1,1,1,1,1
+"Lura","Manzella","929 Augustine St","GB","Staple Hill Ward","South Gloucestershire",,"BS16 4LL","01907-538509","lura@hotmail.com",,1,1,1,1,1
+"Yuette","Klapec","45 Bradfield St #166","GB","Parwich","Derbyshire",,"DE6 1QN","01903-649460","yuette.klapec@klapec.co.uk",,1,1,1,1,1
+"Fernanda","Writer","620 Northampton St","GB","Wilmington","Kent",,"DA2 7PP","01630-202053","fernanda@writer.co.uk",,1,1,1,1,1
+"Charlesetta","Erm","5 Hygeia St","GB","Loundsley Green Ward","Derbyshire",,"S40 4LY","01276-816806","charlesetta_erm@gmail.com",,1,1,1,1,1
+"Corrinne","Jaret","2150 Morley St","GB","Dee Ward","Dumfries and Galloway",,"DG8 7DE","01625-932209","corrinne_jaret@gmail.com",,1,1,1,1,1
+"Niesha","Bruch","24 Bolton St","GB","Broxburn, Uphall and Winchburg","West Lothian",,"EH52 5TL","01874-856950","niesha.bruch@yahoo.com",,1,1,1,1,1
+"Rueben","Gastellum","4 Forrest St","GB","Weston-Super-Mare","North Somerset",,"BS23 3HG","01976-755279","rueben_gastellum@gastellum.co.uk",,1,1,1,1,1
+"Michell","Throssell","89 Noon St","GB","Carbrooke","Norfolk",,"IP25 6JQ","01967-580851","mthrossell@throssell.co.uk",,1,1,1,1,1
+"Edgar","Kanne","99 Guthrie St","GB","New Milton","Hampshire",,"BH25 5DF","01326-532337","edgar.kanne@yahoo.com",,1,1,1,1,1
+"Dewitt","Julio","7 Richmond St","GB","Parkham","Devon",,"EX39 5DJ","01253-528327","dewitt.julio@hotmail.com",,1,1,1,1,1
+"Charisse","Spinello","9165 Primrose St","GB","Darnall Ward","Yorkshire, South",,"S4 7WN","01719-831436","charisse_spinello@spinello.co.uk",,1,1,1,1,1
+"Mee","Lapinski","9 Pengwern St","GB","Marldon","Devon",,"TQ3 1SA","01578-287816","mee.lapinski@yahoo.com",,1,1,1,1,1
+"Peter","Gutierres","4410 Tarlton St","GB","Prestatyn Community","Denbighshire",,"LL19 9EG","01842-767201","peter_gutierres@yahoo.com",,1,1,1,1,1
+"Octavio","Salvadore","6949 Bourne St","GB","Lye and Stourbridge North Ward","West Midlands",,"DY5 2QP","01552-709248","octavio.salvadore@yahoo.com",,1,1,1,1,1
+"Martha","Teplica","148 Rembrandt St","GB","Warlingham","Surrey",,"CR6 9SW","01677-684257","mteplica@teplica.co.uk",,1,1,1,1,1
+"Tamesha","Veigel","2200 Nelson St #58","GB","Newport","Isle of Wight",,"PO30 5AL","01217-342071","tveigel@veigel.co.uk",,1,1,1,1,1
+"Tess","Sitra","61 Rossett St","GB","Chichester","West Sussex",,"PO19 1RH","01473-229124","tess_sitra@hotmail.com",,1,1,1,1,1
+"Leonard","Kufner","41 Canning St","GB","Steornabhagh a Deas Ward","Western Isles",,"HS1 2PZ","01230-623547","lkufner@kufner.co.uk",,1,1,1,1,1
+"Svetlana","Tauras","8289 Cadogan St","GB","South Ward","North Eart Lincolnshire",,"DN33 1AU","01781-827317","svetlana_tauras@tauras.co.uk",,1,1,1,1,1
+"Pok","Molaison","211 Hobart St","GB","Newquay","Cornwall",,"TR7 1LS","01866-248660","pok@yahoo.com",,1,1,1,1,1
+"Augustine","Growcock","114 Falkland St #8845","GB","Brimpton","Berkshire",,"RG7 4RF","01541-802635","augustine.growcock@growcock.co.uk",,1,1,1,1,1

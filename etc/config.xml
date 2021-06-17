@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--
+/**
+ * Magenizr Faker
+ *
+ * @category    Magenizr
+ * @copyright   Copyright (c) 2021 Magenizr (http://www.magenizr.com)
+ * @license     https://www.magenizr.com/license Magenizr EULA
+ */
+-->
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <dev>
+            <magenizr_faker>
+                <enable>1</enable>
+                <csv_customers></csv_customers>
+            </magenizr_faker>
+        </dev>
+    </default>
+</config>

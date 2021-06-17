@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Magenizr Faker
+ *
+ * @category    Magenizr
+ * @copyright   Copyright (c) 2021 Magenizr (http://www.magenizr.com)
+ * @license     https://www.magenizr.com/license Magenizr EULA
+ */
+-->
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Event/etc/events.xsd">
+    <event name="admin_system_config_changed_section_dev">
+        <observer name="custom_admin_system_config_changed_section_dev" instance="Magenizr\Faker\Observer\Config"/>
+    </event>
+</config>

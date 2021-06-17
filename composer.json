@@ -1,0 +1,21 @@
+{
+    "name": "magenizr/magento2-faker",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": "OSL-3.0",
+    "description": "Create customer accounts for your developer and testing team, including a password, billing and shipping address. Waste no more time with creating test accounts over and over again, especially on multi-store environments.",
+    "keywords": [
+        "Magento 2",
+        "Customer",
+        "Data",
+        "Fake"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Magenizr\\Faker\\": ""
+        }
+    }
+}
